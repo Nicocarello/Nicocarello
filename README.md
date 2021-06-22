@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Nicocarello
+- 👀 I’m interested in ... Python/Data Science
+- 🌱 I’m currently learning ... Data Science with Python
+- 📫 How to reach me ... nico.care96@gmail.com/ +5491158008500
